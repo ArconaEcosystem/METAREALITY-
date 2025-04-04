@@ -167,8 +167,7 @@ When exchanging via Eva bot, you have choices:
 ### 4.4. Karma - The Reward Multiplier for ARCONA
 
 *   **Effect:** Multiplies the **amount of ARCONA (BSC) received** during exchange. This is a **reward** for your social activity. It does not affect the Silver exchange limit or the exchange to Gold.
-*   **Multipliers:**
-*   
+*   **Multipliers:**  
 ![Multipliers of Karma](https://github.com/ArconaEcosystem/METAREALITY-/blob/main/Play%20To%20Earn/Castels%20%26%20Dragon/Assets/karma.png?raw=true)
 *   **Earning:** Community activity, referral program (+500/+500), contests.
 *   **!!! RESET !!!:** Karma **resets to zero on the 1st of every month.**
