@@ -165,15 +165,7 @@
 
 *   **Влияние:** Умножает **количество получаемых ARCONA (BSC)**. Не влияет на лимит Серебра или обмен на Gold.
 *   **Множители:**
-https://github.com/ArconaEcosystem/METAREALITY-/blob/main/Play%20To%20Earn/Castels%20%26%20Dragon/Assets/karma.png
-    | Количество Кармы | Множитель |
-    | :--------------- | :-------- |
-    | < 10,000         | x1        |
-    | 10,000+          | x2        |
-    | 20,000+          | x2.5      |
-    | 30,000+          | x3        |
-    | 60,000+          | x3.5      |
-    | 100,000+         | x4        |
+![Множители Кармы](https://github.com/ArconaEcosystem/METAREALITY-/blob/main/Play%20To%20Earn/Castels%20%26%20Dragon/Assets/karma.png?raw=true)
 *   **Получение:** Активность в сообществе, рефералы (+500/+500), конкурсы.
 *   **!!! ОБНУЛЕНИЕ !!!:** **1-го числа каждого месяца.**
 
