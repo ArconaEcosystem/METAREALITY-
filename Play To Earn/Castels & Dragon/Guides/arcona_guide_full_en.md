@@ -2,8 +2,6 @@
 
 ## Introduction
 
-## Introduction
-
 Welcome to the guide for the Arcona Metaverse economy, focusing on NFT Castles and other in-game activities. This isn't just another GameFi project in the metaverse; it's a meticulously designed economic system developed by the Arcona team to place the control over asset value, and primarily the ARCONA token's value, directly into the hands of its community.
 
 At the core of this system lies a unique dual-token model utilizing **ARCONA** and the internal stable currency, **Gold** (where 1 Gold = 1 USDT). Gold serves as the **lifeblood of the Arcona metaverse economy**: all transactions, purchases of digital land, resources, NFT assets (including Castles and Dragons), P2P trading, and participation in activities (such as Tournaments) — are conducted exclusively in Gold.
