@@ -35,6 +35,24 @@ Arcona offers two main playstyles for earning **Silver**:
 
 ---
 
+**Preamble**
+
+Welcome to "Castles & Dragons" by Arcona! This isn't just another GameFi project in the metaverse; it's a meticulously designed economic system developed by the Arcona team to place the control over asset value, and primarily the ARCONA token's value, directly into the hands of its community.
+
+At the core of this system lies a unique dual-token model utilizing **ARCONA** and the internal stable currency, **Gold** (where 1 Gold = 1 USDT). Gold serves as the **lifeblood of the Arcona metaverse economy**: all transactions, purchases of digital land, resources, NFT assets (including Castles and Dragons), P2P trading, and participation in activities (such as Tournaments) — are conducted exclusively in Gold.
+
+So, what is **ARCONA's** role? It's pivotal: ARCONA is the **only way to acquire the Gold** needed for any economic action within the metaverse. And this reveals the **core mechanism through which the community influences ARCONA's value**:
+
+*   **Each time participants purchase Gold using ARCONA tokens, those ARCONA tokens received by the project's treasury are burned** (until parity of 1 ARCONA = 1 USDT is reached).
+
+Therefore, **any of your economic activity within the Arcona metaverse** — whether it's treasure hunting that requires resources (bought/sold for Gold), developing Castles (which requires Gold), or participating in Tournaments (where stakes/rewards may be in Gold) — **creates demand for Gold.** By meeting this demand through purchasing Gold, you **directly initiate the burning of ARCONA.**
+
+This means that **your engagement and economic activity within the project translate directly** into deflationary pressure on the ARCONA token, reducing its supply and creating the **fundamental conditions for its value growth.** The community, through its collective need for Gold, **actively manages the rate of ARCONA burning.**
+
+This guide is your key to understanding how to effectively participate in "Castles & Dragons", earn, and **leverage the embedded mechanisms to manage the ARCONA token's value together with the community.**
+
+---
+
 ## Section 1: Account and Wallet Setup
 
 Before you start, you need to:
