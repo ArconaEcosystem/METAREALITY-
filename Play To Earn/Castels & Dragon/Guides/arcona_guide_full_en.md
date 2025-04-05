@@ -2,9 +2,19 @@
 
 ## Introduction
 
-Welcome to the guide for the Arcona Metaverse economy, focusing on NFT Castles and other in-game activities. This system allows players to generate in-game resources and exchange them for valuable assets, but it requires **active participation and understanding of the mechanics**. This guide is based on the official "Terms of Participation" and articles describing the exchange system.
+## Introduction
 
-**Key Goal:** To understand how to generate or acquire **Silver**, and how to exchange **any** accumulated Silver for **Gold** or the cryptocurrency **ARCONA (BSC)** through a unified exchange system that requires meeting specific conditions.
+Welcome to the guide for the Arcona Metaverse economy, focusing on NFT Castles and other in-game activities. This isn't just another GameFi project in the metaverse; it's a meticulously designed economic system developed by the Arcona team to place the control over asset value, and primarily the ARCONA token's value, directly into the hands of its community.
+
+At the core of this system lies a unique dual-token model utilizing **ARCONA** and the internal stable currency, **Gold** (where 1 Gold = 1 USDT). Gold serves as the **lifeblood of the Arcona metaverse economy**: all transactions, purchases of digital land, resources, NFT assets (including Castles and Dragons), P2P trading, and participation in activities (such as Tournaments) — are conducted exclusively in Gold.
+
+So, what is **ARCONA's** role? It's pivotal: ARCONA is the **only way to acquire the Gold** needed for any economic action within the metaverse. And this reveals the **core mechanism through which the community influences ARCONA's value**:
+
+*   **Each time participants purchase Gold using ARCONA tokens, those ARCONA tokens received by the project's treasury are burned** (until parity of 1 ARCONA = 1 USDT is reached).
+
+Within this powerful economic engine, your primary way to earn is by generating in-game resources through **active participation**, often represented as **Silver**. Therefore, a **key goal** for participants is to understand how to accumulate Silver and then utilize the unified exchange system. This system allows you to convert **any** earned Silver into stable **Gold** (needed for most in-metaverse actions) or directly into the cryptocurrency **ARCONA (BSC)**, provided specific conditions are met and you understand the mechanics.
+
+This guide, based on the official "Terms of Participation" and articles describing the exchange system, is your key to understanding how to effectively participate in "Castles & Dragons", earn, and **leverage the embedded mechanisms to manage the ARCONA token's value together with the community.**
 
 ---
 
@@ -32,24 +42,6 @@ Arcona offers two main playstyles for earning **Silver**:
     *   **Karma** (from activity, resets monthly!) affects the **amount of ARCONA received**.
     *   **Exchange Cards** are needed for ARCONA exchange (up to 60M Silver).
 *   **Conclusion:** Active management of Level, Holds, and Karma is **necessary for EVERYONE** who wants to effectively exchange **any** earned Silver.
-
----
-
-**Preamble**
-
-Welcome to "Castles & Dragons" by Arcona! This isn't just another GameFi project in the metaverse; it's a meticulously designed economic system developed by the Arcona team to place the control over asset value, and primarily the ARCONA token's value, directly into the hands of its community.
-
-At the core of this system lies a unique dual-token model utilizing **ARCONA** and the internal stable currency, **Gold** (where 1 Gold = 1 USDT). Gold serves as the **lifeblood of the Arcona metaverse economy**: all transactions, purchases of digital land, resources, NFT assets (including Castles and Dragons), P2P trading, and participation in activities (such as Tournaments) — are conducted exclusively in Gold.
-
-So, what is **ARCONA's** role? It's pivotal: ARCONA is the **only way to acquire the Gold** needed for any economic action within the metaverse. And this reveals the **core mechanism through which the community influences ARCONA's value**:
-
-*   **Each time participants purchase Gold using ARCONA tokens, those ARCONA tokens received by the project's treasury are burned** (until parity of 1 ARCONA = 1 USDT is reached).
-
-Therefore, **any of your economic activity within the Arcona metaverse** — whether it's treasure hunting that requires resources (bought/sold for Gold), developing Castles (which requires Gold), or participating in Tournaments (where stakes/rewards may be in Gold) — **creates demand for Gold.** By meeting this demand through purchasing Gold, you **directly initiate the burning of ARCONA.**
-
-This means that **your engagement and economic activity within the project translate directly** into deflationary pressure on the ARCONA token, reducing its supply and creating the **fundamental conditions for its value growth.** The community, through its collective need for Gold, **actively manages the rate of ARCONA burning.**
-
-This guide is your key to understanding how to effectively participate in "Castles & Dragons", earn, and **leverage the embedded mechanisms to manage the ARCONA token's value together with the community.**
 
 ---
 
